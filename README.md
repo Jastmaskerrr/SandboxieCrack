@@ -1,5 +1,8 @@
 # Sandboxie Plus / Classic
 
+***IMPORTANT CHANGE***
+<a href="https://github.com/WinFunan/SandboxieCrack/discussions/21">Stop Updates on SandboxieCrack</a>
+
 <a href="./ToBuildYourOwnPlusVersion">构建你自己的Plus版本</a>
 Microsoft于2026年6月调整Win11驱动程序签名策略，使用Win11的用户将无法继续使用该仓库的发行版构建。
 
